@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- รวมภาษาคนทำ Ads: open guide book + rising line, on the ads-daily purple → teal gradient -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b5cf0"/>
+      <stop offset="1" stop-color="#1f9fb0"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <path d="M10 26 Q21 21 31 26 V50 Q21 45 10 50 Z" fill="#fff" opacity=".92"/>
+  <path d="M54 26 Q43 21 33 26 V50 Q43 45 54 50 Z" fill="#fff" opacity=".7"/>
+  <path d="M15 20 L25 13 L33 17 L48 8" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="8" r="3.6" fill="#fff"/>
+</svg>
